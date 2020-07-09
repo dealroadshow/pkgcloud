@@ -62,7 +62,7 @@
     "filed": "0.1.x",
     "gcloud": "^0.10.0",
     "ip": "0.3.x",
-    "mime": "1.2.x",
+    "mime": "2.4.x",
     "qs": "1.2.x",
     "request": "2.40.x",
     "s3-upload-stream": "~1.0.0",
