@@ -64,7 +64,7 @@
     "ip": "0.3.x",
     "mime": "1.2.x",
     "qs": "1.2.x",
-    "request": "2.40.x",
+    "request": "2.88.x",
     "s3-upload-stream": "~1.0.0",
     "through2": "0.6.x",
     "underscore": "1.6.x",
